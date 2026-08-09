@@ -1,15 +1,20 @@
 # Ku Przestrodze
-## Jeśli sądzisz, że w dobie AI sztuka pisania zanikła, zwłaszcza wśród IT, to niezawodny znak, że jesteś AGENTEM.
-
+## Jeśli sądzisz, że w dobie AI sztuka pisania zanikła, zwłaszcza w IT, to niezawodny znak, że jesteś AGENTEM.
 ---
+## W serii ukazały się
 
-
-
+- [Chapter 1: Nieznośna ciężkość bytu](./Chapter1.md)
+- [Chapter 1': Nas](./Chapter1(bis).md)
 ---
+### O projekcie
+Jak programista dostanie natchnienia do pisania, to musi się skończyć na GitHubie… 
+Zobaczmy, co z tego wyjdzie.
 
-Autor: jeavku
-
-Kontakt: jaevku@gmail.com
+### Autorzy:
+- jeavku
+- AI
+---
+Kontakt: jeavku@gmail.com
 
 Ten projekt jest dystrybuowany z licencją CC BY-NC-SA 4.0:
 https://creativecommons.org/licenses/by-nc-sa/4.0/
