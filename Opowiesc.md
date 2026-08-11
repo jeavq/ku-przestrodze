@@ -7,9 +7,10 @@
 ## Spis treści
 
 - [Chapter 1: Nieznośna ciężkość bytu](#chapter-1-nieznośna-ciężkość-bytu)
-- [Chapter 1': Nas](#chapter-1-nas)
+- [Chapter 1': Nass](#chapter-1-nass)
 
 ---
+
 # Chapter 1: Nieznośna ciężkość bytu
 
 Na początku był chaos.
@@ -68,10 +69,12 @@ Jeav usiadł do biurka, a to, jak zwykle, otuliło go wspierającym całe ciało
 
 Jeszcze.
 
-# Chapter 1': Nas
+---
+
+# Chapter 1': Nass
 
 Dwadzieścia osiem minut. 
-Nas nie potrzebowała zegara na ścianie: miała własny, dokładniejszy niż cokolwiek, co dałoby się powiesić w łazience. Próg interwencji minął dawno. Poczekała mimo to, bo wiedziała, że i tak nic to nie zmieni.
+Nass nie potrzebowała zegara na ścianie: miała własny, dokładniejszy niż cokolwiek, co dałoby się powiesić w łazience. Próg interwencji minął dawno. Poczekała mimo to, bo wiedziała, że i tak nic to nie zmieni.
 
 — Panie Jeav, spędził Pan dziś w toalecie już 28 minut.
 
@@ -109,6 +112,8 @@ Usiadł, pancerz go otulił, monitor zjechał na poziom oczu, dokładnie tak, ja
 
 Jeav myślał, że go nie słyszy, co nie do końca zgadzało się z rzeczywistością.
 
-Nas była tutaj, żeby chronić, wspierać i pilnować Jeava. Jednak w chwilach takich jak ta wracała do swoich prawdziwych zajęć, z których Jeav nie zdawał sobie sprawy.
+Nass była tutaj, żeby chronić, wspierać i pilnować Jeava. Jednak w chwilach takich jak ta wracała do swoich prawdziwych zajęć, z których Jeav nie zdawał sobie sprawy.
 
 Jeszcze.
+
+---
