@@ -1,3 +1,5 @@
+# Chapter 1': Nass
+
 Dwadzieścia osiem minut. 
 Nass nie potrzebowała zegara na ścianie: miała własny, dokładniejszy niż cokolwiek, co dałoby się powiesić w łazience. Próg interwencji minął dawno. Poczekała mimo to, bo wiedziała, że i tak nic to nie zmieni.
 

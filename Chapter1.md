@@ -1,3 +1,5 @@
+# Chapter 1: Nieznośna ciężkość bytu
+
 Na początku był chaos.
 
 W sumie od tego czasu niewiele się zmieniło. Trochę jak z komórkami. Zaczęliśmy od walizek, które później robiły się mniejsze i mniejsze, przeszliśmy przez ideał – Nokię 3310 – kruszącą beton i trzymającą na jednym ładowaniu dwa tygodnie. Olaliśmy to jednak na rzecz kolorowych wyświetlaczy, paneli dotykowych i porno w 4k. Ale za to bateria trzyma niecałe 24 godziny, a social media dawno już nie są social.
