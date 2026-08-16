@@ -7,6 +7,15 @@
 
 ---
 
+## O projekcie
+Jak programista dostanie natchnienia do pisania, to musi się skończyć na GitHubie… 
+
+Zobaczmy, gdzie nas to doprowadzi.
+
+### Autor: Jeav
+
+---
+
 ## W serii ukazały się
 
 - [Chapter 1: Nieznośna ciężkość bytu](./Chapter1.md)
@@ -16,12 +25,13 @@
 
 ---
 
-## O projekcie
-Jak programista dostanie natchnienia do pisania, to musi się skończyć na GitHubie… 
+## Znajdziesz mnie również na
 
-Zobaczmy, gdzie nas to doprowadzi.
-
-### Autorzy: jeavku && AI
+- [Wykop](https://wykop.pl/ludzie/jeavq)
+- [4programmers](https://4programmers.net/Uzytkownik/Jeav)
+- [Hejto](https://www.hejto.pl/uzytkownik/jeav)
+- [X](https://x.com/jeavku)
+- [Medium](https://medium.com/@jeavq)
 
 ---
 
