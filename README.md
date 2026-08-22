@@ -12,7 +12,7 @@ Jak programista dostanie natchnienia do pisania, to musi się skończyć na GitH
 
 Zobaczmy, gdzie nas to doprowadzi.
 
-### Autor: Jeav
+### Autor: jeav
 
 ---
 
