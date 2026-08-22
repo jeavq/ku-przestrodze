@@ -122,6 +122,8 @@ Jeszcze.
 
 # Chapter 2: Telefon
 
+![Chapter 2](assets/Chapter%202.png)
+
 — Koniec na dzisiaj — zarządził Jeav, a biurko rozluźniło wszystkie punkty podparcia i lekko postawiło go na nogi.
 
 — Gratulacje, w tym tygodniu nasza firma urosła o 0,27%, co przekłada się na 3 270 507 robotogodzin pracy centrum danych.
