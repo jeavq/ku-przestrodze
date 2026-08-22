@@ -2,7 +2,7 @@
 
 ## Jeśli sądzisz, że w dobie AI sztuka pisania zanikła, zwłaszcza w IT, to niezawodny znak, że jesteś AGENTEM.
 
-### Autor: jeavku & AI
+### Autor: jeav
 
 ## Spis treści
 
