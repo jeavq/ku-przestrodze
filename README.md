@@ -27,11 +27,10 @@ Zobaczmy, gdzie nas to doprowadzi.
 
 ## Znajdziesz mnie również na
 
+- [Medium](https://medium.com/@jeavq)
 - [Wykop](https://wykop.pl/ludzie/jeavq)
-- [4programmers](https://4programmers.net/Uzytkownik/Jeav)
 - [Hejto](https://www.hejto.pl/uzytkownik/jeav)
 - [X](https://x.com/jeavku)
-- [Medium](https://medium.com/@jeavq)
 
 ---
 
