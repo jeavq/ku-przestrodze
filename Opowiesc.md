@@ -221,6 +221,8 @@ zamykając za sobą drzwi kabiny.
 
 # Chapter 3: Relacje ludzie-roboty
 
+![Chapter 3](assets/Chapter%203.png)
+
 — Rozszerzenie do czyszczenia sztućców… — zamyślił się Jeav, stając już w wielkiej suszarce do ludzi.
 
 God save the Poles, pomyślał. Z takimi inżynierami wszelkie regulacje zostają w tyle, a unijni urzędnicy dostają białej gorączki.
