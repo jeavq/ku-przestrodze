@@ -1,5 +1,7 @@
 # Chapter 4: Freefall
 
+![Chapter 4](assets/Chapter%204.png)
+
 Kiedy możesz mieć i robić wszystko, imprezy bywają naprawdę POPIEPSZONE. Ogranicza nas tylko wyobraźnia.
 
 Musk robił to już przed rewolucją, wylewając rzeki pieniędzy w odpowiednich ludzi i zawsze dostawał, co tylko chciał. Teraz jest ciut łatwiej.
