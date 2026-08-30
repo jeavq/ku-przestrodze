@@ -5,3 +5,5 @@ to-review/*
 marketing
 marketing/*
 ku-przestrodze.iml
+.DS_Store
+**/.DS_Store
