@@ -23,6 +23,7 @@ Zobaczmy, gdzie nas to doprowadzi.
 - [Chapter 2: Telefon](./Chapter2.md)
 - [Chapter 3: Relacje ludzie-roboty](./Chapter3.md)
 - [Chapter 4: Freefall](./Chapter4.md)
+- [Chapter 5: Bunt ludzi](./Chapter5.md)
 
 ---
 
