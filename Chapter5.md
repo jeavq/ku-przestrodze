@@ -1,5 +1,7 @@
 # Chapter 5: Bunt ludzi
 
+![Chapter 5](assets/Chapter%205.png)
+
 A co, jeśli w przyszłości dojdzie do buntu ludzi?
 
 Nass, uśmiechając się miękko, patrzyła, jak drzwi windy zamykają się przed Jeavem. Kiedy tylko to nastąpiło, uruchomiła cały dom. Robot sprzątający, robot myjący. Robot oczyszczający powietrze, robot czyszczący toaletę. Wszystko odpalone jednym poleceniem po wifi.
